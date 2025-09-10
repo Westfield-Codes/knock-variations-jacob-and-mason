@@ -1,5 +1,13 @@
 
 /* Global variables */
+
+/* ALTERNATIVE SETUPS:
+ * Wooden shoe, Wooden shoe like to know!
+ * Water, Water you doing today?
+ * Butter, Butter let me in or I'll freeze!
+ * Soup,Superman!
+ */   
+
 var who = "Lettuce";
 var joke = "Lettuce in, it's cold out here!";
 var expected = who + " who?";
